@@ -155,4 +155,4 @@ jupyter notebook soil_classifier.ipynb
 
 ## Author
 
-*Your Name Here* – open an issue or pull request for improvements.
+*Uddipta Bhaskar Sarma(uddiptasarma361@gmail.com* – open an issue or pull request for improvements.
